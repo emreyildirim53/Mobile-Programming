@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Audioid</string>
+
+    <!-- Music Names -->
+    <string-array name="music_name">
+        <item>Kurşuni Renkler</item>
+        <item>Lost On You</item>
+        <item>Senle Zor</item>
+        <item>Ağlar mıyım? Ağlamam</item>
+        <item>Aşk Adam Seçiyor</item>
+        <item>Ya Da Boşver</item>
+    </string-array>
+
+    <!-- Singers Pictures -->
+    <array name="singer_pic">
+        <item>@drawable/gokhan_turkmen</item>
+        <item>@drawable/lp</item>
+        <item>@drawable/yener_cevik</item>
+        <item>@drawable/ziynet_sali</item>
+        <item>@drawable/ilyas_yalcintas</item>
+        <item>@drawable/ido_tatlises</item>
+    </array>
+
+    <!-- Singers -->
+    <string-array name="singer_name">
+        <item>Gökhan Türkmen</item>
+        <item>LP</item>
+        <item>Yener Çevik</item>
+        <item>Ziynet Sali</item>
+        <item>İlyas Yalçıntaş</item>
+        <item>İdo Tatlıses</item>
+    </string-array>
+    <!-- Sound -->
+    <string-array name="audio">
+        <item>@raw/kursini_renkler</item>
+        <item>@raw/lost_on_you</item>
+        <item>@raw/senle_zor</item>
+        <item>@raw/aglar_miyim_aglamam</item>
+        <item>@raw/ask_adam_seciyor</item>
+        <item>@raw/ya_da_bosver</item>
+    </string-array>
+
+</resources>
