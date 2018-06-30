@@ -1,4 +1,4 @@
-#Audiod - Clone of Apple Music Application
+# Audiod - Clone of Apple Music Application
 
 Uygulama tamamen programlama yeteneğimi test etmek amacıyla yaratılmıştır. Herhangi bir ticari kazanç güdülmemiştir. Kendime tasarım olarak beğendiğim Apple Music uygulamasını hedef olarak belirledim ve ilk önce tasarımını daha sonra çalışma mantığını uyguladım.
 
