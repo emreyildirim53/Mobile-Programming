@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Application</string>
+    <string-array name="arrCars">
+        <item>Birinci Araba</item>
+        <item>İkinci Araba</item>
+        <item>Üçüncü Araba</item>
+    </string-array>
+</resources>
